@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **next.js**
 
-- 💬 Ask me about **fastapi, react, python and javascript**
+- 💬 Ask me about **fastapi, react, python, java and javascript**
 
-- 📫 How to reach me **retinanisaichandu@gmail.com**
+- 📫 How to reach me **chanduretineni@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

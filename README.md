@@ -1,17 +1,55 @@
-<h1 align="center">Hi 👋, I'm Chandu Retineni</h1>
-<h3 align="center">A passionate Backend developer from Hyderabad, India</h3>
+<h1 align="center">Hi 👋, I'm Sai Chandu Retineni</h1>
+<h3 align="center">A versatile Full-Stack Developer building end-to-end web solutions.</h3>
 
-- 🌱 I’m currently learning **next.js**
-
-- 💬 Ask me about **fastapi, react, python, java and javascript**
-
-- 📫 How to reach me **chanduretineni@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chandu retineni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandu retineni" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/retinanisaichandu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="retinanisaichandu" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/chandu-retineni" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:chanduretineni@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+### About Me
+
+I'm a passionate developer with experience in Python (FastAPI, Flask), Java (Spring Boot), and JavaScript (Node.js, Express). I enjoy creating scalable and user-focused applications and have a strong background in database design and cloud deployment with AWS. I thrive in collaborative environments and enjoy working with cross-functional teams.
+
+---
+
+### 🚀 Creative Projects
+
+- **DevConnect - Social Platform for Developers**
+  - A full-stack application built with a **React** frontend and a **FastAPI** (Python) backend to help developers showcase projects, write technical blogs, and find collaborators.
+  - Implemented a flexible **MongoDB** schema for user profiles and project data, and deployed the application using **Docker** on **AWS EC2**.
+
+- **Insightify - Data Visualization Dashboard**
+  - A web tool that allows users to upload datasets and generate interactive visualizations.
+  - Architected using a microservices approach with **Node.js** for the API gateway and a **Python** service using **Pandas** for data processing.
+
+- **CodeClips - Cloud Snippet Manager**
+  - A secure, cloud-native application for developers to save, tag, and share code snippets.
+  - Developed a robust REST API using **Java (Spring Boot)** and managed data with a **SQL** database, all hosted on AWS.
+
+---
+
+### 💻 Technical Skills
+
+- **Languages:** Python, Java, JavaScript, SQL
+- **Frameworks:** FastAPI, Flask, Spring Boot, Express.js, React 
+- **Data Tools:** Apache Spark, Pandas, NumPy, Matplotlib 
+- **Cloud & DevOps:** AWS (EC2, S3), Docker, GitHub Actions, CI/CD 
+- **Concepts:** Microservices, REST API Design, OOP, Agile, TDD 
+
+---
+
+### 🌱 I'm Currently Learning
+
+- Exploring advanced features in **Next.js** to build more powerful front-end applications.
+
+---
+
+### 💬 Let's Connect!
+
+I'm always open to discussing new projects, creative ideas, or opportunities in the tech space. Feel free to ask me about **FastAPI, React, Python, Java, or JavaScript**. You can reach me at **chanduretineni@gmail.com**.

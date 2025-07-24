@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Chandu Retineni</h1>
+<h1 align="center">Hi 👋, I'm Chandu Retineni</h1>
 <h3 align="center">A Full-Stack Developer building end-to-end web solutions.</h3>
 
 <p align="center">
